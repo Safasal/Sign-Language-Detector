@@ -9,12 +9,14 @@ The goal of this project is to custom train a Machine Learning algorithm capable
 
 The zipped file [colab] contains the data created by me and some other data that I installed from GitHub as well divided into two folders [test] and [train], you will also find python scripts needed for the TF detection, annotations, and the downloaded pipeline of the TFOD pre-trained model “MobileNet V2 FPNLite” downloaded from the TFOD zoo.
 
-## Evaluation results: 
 
+## Evaluation Results: 
+
+   
         
+![image](https://user-images.githubusercontent.com/89675323/204734197-beda2365-8557-4981-8da5-552cb9e70aa0.png)
+     
 
 ## Summary:
 
 The model was successfully developed using the TensorFlow2 Mobilenetv2, but it produces accurate prediction under certain conditions of light intensity, angle/rotation, distance, and transition.
-
-![image](https://user-images.githubusercontent.com/89675323/204733795-d19652e3-be0d-4e23-99ad-02eb216a449a.png)
