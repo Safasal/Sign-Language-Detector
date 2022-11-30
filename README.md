@@ -1,6 +1,6 @@
 # Alphabet Hand Gesture Recognition 
 
-Gesture recognition is a topic in computer science and language technology with the goal of interpreting human gestures via mathematical algorithms.
+Gesture recognition is a topic in computer science and language technology with the aim of interpreting human gestures via mathematical algorithms.
 
 The goal of this project is to custom train a Machine Learning algorithm capable of detecting images of different hand gestures of the American sign language Alphabet. Here you will find a complete process from creating our custom data to making object detection inferences.
 
