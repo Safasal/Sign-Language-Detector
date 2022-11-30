@@ -6,7 +6,7 @@ The goal of this project is to custom train a Machine Learning algorithm capable
 
 1-	Collection and label: The first phase of this project is to collect data using the computer webcam, label each image individually and create a label_map annotation of the alphabet set. 
 
-2-	SignLanguage_Alphabet_DeepLearning: The second and the core part of the project that will go over installing TensorFlow Object Detection, making hand gesture recognitions, evaluating, saving and exporting the model, and making images/video inferences.
+2-	SignLanguage_Alphabet_DeepLearning: The second and the core part of the project that will go over installing TensorFlow Object Detection, making hand gesture recognitions, evaluating/saving/exporting the model, and making images/video inferences.
 
 The zipped file [colab] contains the data created by me and some other data that I installed from GitHub as well divided into two folders [test] and [train], you will also find python scripts needed for the TF detection, annotations, and the downloaded pipeline of the TFOD pre-trained model “MobileNet V2 FPNLite” downloaded from the TFOD zoo.
 
