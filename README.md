@@ -4,7 +4,7 @@
 
 Gesture recognition is a topic in computer science and language technology with the aim of interpreting human gestures via mathematical algorithms.
 
-The goal of this project is to custom train a Machine Learning algorithm capable of detecting images of different hand gestures of the American sign language Alphabet. Here you will find a complete process from creating our custom data to making object detection inferences.
+The goal of this project is to custom train a Machine Learning algorithm capable of detecting images of different hand gestures of the American_Sign_Language Alphabet. Here you will find a complete process from creating our custom data to making object detection inferences.
 
 1-	Collection and label: The first phase of this project is to collect data using the computer webcam, label each image individually and create a label_map annotation of the alphabet set. 
 
